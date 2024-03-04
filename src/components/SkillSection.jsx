@@ -9,10 +9,10 @@ const SkillSection = () => {
             className="flex flex-col justify-center items-center relative z-10"
           >
             <div className="relative flex flex-col justify-between items-center w-full max-w-6xl gap-3 px-4 py-8 mx-auto sm:px-6 lg:px-8">
-              <div className="text-4xl text-center font-semibold mt-5 text-gray-900 dark:text-white" id="skills">
+              <div className="text-4xl text-center font-semibold mt-5  text-white" id="skills">
                 Skills
               </div>
-              <div className="text-lg text-center font-medium text-gray-700 dark:text-gray-300 mt-5">
+              <div className="text-lg text-center font-medium text-gray-300 mt-5">
                 Here are some of my skills on which I have been working on for
                 the past 3 years.
               </div>

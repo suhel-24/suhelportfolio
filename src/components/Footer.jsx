@@ -1,5 +1,3 @@
-import React from "react";
-
 const Footer = () => {
   return (
     <div className="pt-20 sm:pt-30 pb-8 mt-20 border-t-2 border-primary-light dark:border-secondary-dark">
@@ -123,11 +121,7 @@ const Footer = () => {
       <div className="font-general-regular flex justify-center items-center text-center">
         <div className="text-lg text-ternary-dark dark:text-ternary-light">
           © 2024
-          <a
-            href="https://github.com/realstoman/react-tailwindcss-portfolio"
-            target="__blank"
-            className="hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 ml-1 duration-500"
-          >
+          <a className="hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 ml-1 duration-500">
             Shaik Suhel. All rights reserved.
           </a>
         </div>
