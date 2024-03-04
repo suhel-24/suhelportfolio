@@ -13,9 +13,9 @@ export const projectsData = [
   },
   {
     image:
-      "https://img.freepik.com/free-vector/log-concept-landing-page_23-2148269085.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1709078400&semt=ais",
-    title: "Login Page",
-    link: "https://github.com/suhel-24/Loginpage",
+      "https://yt3.googleusercontent.com/5OqL88exM25Ew26whWDOgJwJ1I67kiCZr9TVxwT_2CVK-rxKH4qmL5peq72WgSMw6i_7znsI3Q=s900-c-k-c0x00ffffff-no-rj",
+    title: "Paytm Clone",
+    link: "https://github.com/suhel-24/paytmClone",
   },
   {
     image:
